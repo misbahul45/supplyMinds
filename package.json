@@ -1,0 +1,14 @@
+{
+  "name": "supplyminds",
+  "version": "1.0.0",
+  "description": "**Enterprise-grade AI Agent System untuk Supply Chain Intelligence**",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:api\" \"npm run dev:client\"",
+    "dev:api": "cd api && npm run dev",
+    "dev:client": "cd client && bun dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
