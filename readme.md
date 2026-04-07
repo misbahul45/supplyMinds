@@ -28,6 +28,7 @@ Bukan sekadar chatbot biasa. Ini adalah **AI Knowledge Agent** yang berpikir, me
 ---
 
 ## 🏭 Use Cases Supply Chain
+![alt text](image.png)
 
 ### 🔥 1. Demand Forecasting Intelligence
 
